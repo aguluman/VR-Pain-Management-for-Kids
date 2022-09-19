@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 652b13d54e5046547bca16ce6673c4ff
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -4481534717012412461
+    second: GROUND CANDY|circular candy.009Action
+  - first:
+      74: 2332225087409634255
+    second: BIG CANDY|circular candy.009Action
+  - first:
+      74: -4658548070263407942
+    second: CANDY1.002|circular candy.009Action
+  - first:
+      74: -2630060476433578115
+    second: the bridge.001|circular candy.009Action
+  - first:
+      74: -2090665185637049472
+    second: circular candy|circular candy.009Action
+  - first:
+      74: 3803632758377032788
+    second: ground stone.002|circular candy.009Action
+  - first:
+      74: 5190974519505988886
+    second: candy5.001|circular candy.009Action
+  - first:
+      74: -7839672560493167028
+    second: ground trees|circular candy.009Action
+  - first:
+      74: 7350726752574241155
+    second: doughnut.002|circular candy.009Action
+  - first:
+      74: -5896290678625967663
+    second: STANDING CREAM|circular candy.009Action
+  - first:
+      74: -15048219954077317
+    second: mushroom chocolate|circular candy.009Action
+  - first:
+      74: 1820880440622417604
+    second: cakebody.001|circular candy.009Action
+  - first:
+      74: -3426083207469793582
+    second: BIG CANDY.001|circular candy.009Action
+  - first:
+      74: 780389992939002075
+    second: Cylinder.001|circular candy.009Action
+  - first:
+      74: -7953951210984749704
+    second: ice cream2|circular candy.009Action
+  - first:
+      74: 5876973812996680386
+    second: BIG CANDY.004|circular candy.009Action
+  - first:
+      74: 512653330703299622
+    second: ground stone.001|circular candy.009Action
+  - first:
+      74: -696938638286339633
+    second: GROUND CANDY.001|circular candy.009Action
+  - first:
+      74: -1935741799269148897
+    second: HOUSE STONES|circular candy.009Action
+  - first:
+      74: -5986039595640640198
+    second: ground stone.003|circular candy.009Action
+  - first:
+      74: -3199217642410767784
+    second: STANDING CREAM.001|circular candy.009Action
+  - first:
+      74: -3260707973964385388
+    second: STANDING CREAM.002|circular candy.009Action
+  - first:
+      74: 7509224970132923388
+    second: circular candy.001|circular candy.009Action
+  - first:
+      74: 5086088222157264386
+    second: circular candy.002|circular candy.009Action
+  - first:
+      74: 8056573643630052988
+    second: circular candy.003|circular candy.009Action
+  - first:
+      74: -7131585797314500361
+    second: circular candy.004|circular candy.009Action
+  - first:
+      74: 2106135999216913741
+    second: Cylinder.002|circular candy.009Action
+  - first:
+      74: 3873375311100369666
+    second: cakebody.002|circular candy.009Action
+  - first:
+      74: -2833370849433943573
+    second: BIG CANDY.003|circular candy.009Action
+  - first:
+      74: -6328888774667016593
+    second: circular candy.006|circular candy.009Action
+  - first:
+      74: -5055477859812672125
+    second: circular candy.007|circular candy.009Action
+  - first:
+      74: 2344399224873908387
+    second: circular candy.009|circular candy.009Action
+  - first:
+      74: -543740911562979872
+    second: circular candy.010|circular candy.009Action
+  - first:
+      74: 5306086949881045467
+    second: the bridge.002|circular candy.009Action
+  - first:
+      74: -7111643961997633762
+    second: CANDY1.001|circular candy.009Action
+  - first:
+      74: -7300768986786662603
+    second: CANDY1.003|circular candy.009Action
+  - first:
+      74: -1969237275622895588
+    second: CANDY1.004|circular candy.009Action
+  - first:
+      74: 8302539681395275046
+    second: CANDY1.005|circular candy.009Action
+  - first:
+      74: 4574981186325060679
+    second: CANDY1.006|circular candy.009Action
+  - first:
+      74: -6727902851997640584
+    second: CANDY1.007|circular candy.009Action
+  - first:
+      74: -1789022287929028856
+    second: the bridge.003|circular candy.009Action
+  - first:
+      74: 2028962374962860124
+    second: the bridge.004|circular candy.009Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
