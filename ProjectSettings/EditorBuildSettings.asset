@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/UI.unity
+    guid: 0c18106ce1b066c49bd5b3bb0f10c4fa
   - enabled: 1
     path: Assets/Scenes/my final year scene.unity
     guid: 89157c8dd54b73245bff182a2389ae55
